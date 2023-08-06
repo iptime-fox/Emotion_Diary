@@ -15,19 +15,19 @@ const mockData = [
   {
     id: 'mock1',
     date: new Date().getTime(),
-    content: 'mock1',
+    content: '푸바오의 워토우 먹방일기',
     emotionId: 1,
   },
   {
     id: 'mock2',
     date: new Date().getTime(),
-    content: 'mock2',
+    content: '아이바오의 쌍둥바오 육아일기',
     emotionId: 2,
   },
   {
     id: 'mock3',
     date: new Date().getTime(),
-    content: 'mock3',
+    content: '낭만판다 러바오의 편식일기',
     emotionId: 3,
   },
 ];
