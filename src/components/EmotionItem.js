@@ -4,7 +4,7 @@ import { styled } from 'styled-components';
 const EmotionItemWrapper = styled.div`
   cursor: pointer;
   border-radius: 5px;
-  padding: 20px;
+  padding: 15px;
   display: flex;
   flex-direction: column;
   justify-content: center;
